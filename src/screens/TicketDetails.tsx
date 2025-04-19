@@ -198,14 +198,14 @@ const styles = StyleSheet.create({
         color: Color.valueColor
     },
     locationText: {
-        fontSize: S(14),
+        fontSize: S(12),
         fontFamily: Fonts.RobotoRegular,
         marginTop: VS(5),
         alignSelf: 'flex-start',
         lineHeight: VS(20),
         backgroundColor: Color.borderColor,
         borderRadius: S(50),
-        paddingVertical: VS(7),
-        paddingHorizontal: S(10)
+        paddingVertical: VS(5),
+        paddingHorizontal: S(12)
     }
 });
